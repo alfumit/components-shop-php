@@ -1,0 +1,31 @@
+{
+  "name": "component-shop-php",
+  "version": "1.0.0",
+  "description": "A PHP based electronic components online-shop",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify": "grunt default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfumit/components-shop-php.git"
+  },
+  "keywords": [
+    "online-shop"
+  ],
+  "author": "Alexander Fedotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfumit/components-shop-php/issues"
+  },
+  "homepage": "https://github.com/alfumit/components-shop-php#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}
